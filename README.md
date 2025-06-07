@@ -18,6 +18,11 @@
 - 정보처리기사 (Engineer Information Processing)
 - ADsP (Advanced Data Analytics Semi-Professional)
 
+📘 Language Proficiency
+
+- TOEIC: 865 (April 2025)
+- OPIc: IM2 (June 2024)
+
 🌍 **Global Programs**
 - 🇺🇸 **CES 2024** (2024. 01): Selected as a student delegate from Ajou University for international tech exhibition participation
 - 🇺🇸 **Kettering University** (2022.07-2022.08): 3-week Blue Ladder program focused on applied robotics and control systems
