@@ -19,8 +19,8 @@
 - ADsP (Advanced Data Analytics Semi-Professional)
 
 🌍 **Global Programs**
-- 🇺🇸 **Kettering University** (2022.07-2022.08): 3-week Blue Ladder program focused on applied robotics and control systems
 - 🇺🇸 **CES 2024** (2024. 01): Selected as a student delegate from Ajou University for international tech exhibition participation
+- 🇺🇸 **Kettering University** (2022.07-2022.08): 3-week Blue Ladder program focused on applied robotics and control systems
 
 🏆 **Awards**
 - *(No awards listed currently – can be updated later)*
