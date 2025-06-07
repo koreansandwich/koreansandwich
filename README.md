@@ -64,11 +64,11 @@
 
 ## ✨ Competitive Programming
 
-![Baekjoon Gold](https://your-baekjoon-card-image-url.png)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jdh4673)](https://solved.ac/jdh4673)
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com
+- Email: jdh4673@naver.com
 - Blog: [yourblog.com](https://yourblog.com)
