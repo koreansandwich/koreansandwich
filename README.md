@@ -18,7 +18,7 @@
 - 정보처리기사 (Engineer Information Processing)
 - ADsP (Advanced Data Analytics Semi-Professional)
 
-📘 Language Proficiency
+📘 **Language Proficiency**
 
 - TOEIC: 865 (April 2025)
 - OPIc: IM2 (June 2024)
