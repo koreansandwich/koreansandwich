@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="greeting.jpg" alt="banner" width="80%" />
-</p>
-
-
----
-
 ## Profile
 
 🧑‍💻 **Who Am I**
@@ -25,7 +18,6 @@
 🏆 **Awards**
 - [경진대회 / 논문 / 우수 프로젝트 등]
 
----
 
 ## Tech Stack
 
