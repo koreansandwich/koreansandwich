@@ -72,4 +72,4 @@
 
 - Email: jdh4673@naver.com
 - Linkedin: https://www.linkedin.com/in/daham-j-ab9a3a31a/
-- Blog: koreansandwich.wordpress.com
+- Blog: https://koreansandwich.wordpress.com
