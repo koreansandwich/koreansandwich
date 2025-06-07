@@ -71,4 +71,5 @@
 ## 📫 Contact
 
 - Email: jdh4673@naver.com
-- Blog: [yourblog.com](https://yourblog.com)
+- Linkedin: https://www.linkedin.com/in/daham-j-ab9a3a31a/
+- Blog: koreansandwich.wordpress.com
