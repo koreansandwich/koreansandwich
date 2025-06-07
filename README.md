@@ -1,23 +1,58 @@
-🌱 Who Am I
-  ∙ I’m currently learning Cloud and Spring Framework.
-  ∙ I’m majoring in Mobile Software & Web Engineering at Hansung University.
+<p align="center">
+  <img src="https://your-banner-image-url" alt="Hello" width="80%" />
+</p>
 
-🎓 Education
-  ∙ Graduate from Hansung University (2017.03 ~ 2022.08)
-  ∙ Studying English at EC English in Australia(2019.05 ~ 2019.08)
+---
 
-📘 Activity
-  ∙ Pro Digital Academy 2기 (2023.07 ~ 2023.10)
-  ∙ KB IT's your Life 3기 (2023.03 ~ 2023.05)
+## Profile
 
-👩‍💻 Experience
-  ∙ Internship at Monthlykitchen(2024.07 ~ 2024.08) 
-  ∙ Internship at Shinhan Securities (2023.10 ~ 2023.11)
-  ∙ Internship at White Information Networking Co (2021.07 ~ 2022.02)
+🧑‍💻 **Who Am I**
+- I'm currently interested in applying machine learning to cybersecurity and social media analysis.
+- Background in Defense Digital Convergence (국방디지털융합학과), with interests in national security & social impact AI.
 
-📜 Certificate
-  ∙ Engineer Information Processing(2024.09.10)
-  ∙ SQLD(SQL Developer)(2022.06.24)
+🎓 **Education**
+- BA in Defense Digital Convergence, [Your Univ.] (20XX – 20XX)
+- Military Tech + AI minor track
 
-🏅 Awards
-  ∙ Excellence Prize, Web field of Capstone Design at Hansung University (2021.03 ~ 2021.06)
+💼 **Experience**
+- Internship at [회사명1] (2023.07 ~ 2023.10)
+- ROK Army Signal Corps, technical operations (if applicable)
+
+📜 **Certificates**
+- SQLD, 정보처리기사, etc
+
+🏆 **Awards**
+- [경진대회 / 논문 / 우수 프로젝트 등]
+
+---
+
+## Tech Stack
+
+### 🛠️ Platforms & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### 🧰 Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 🤝 Cooperation
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
+
+---
+
+## ✨ Competitive Programming
+
+![Baekjoon Gold](https://your-baekjoon-card-image-url.png)
+
+---
+
+## 📫 Contact
+
+- Email: your@email.com
+- Blog: [yourblog.com](https://yourblog.com)
