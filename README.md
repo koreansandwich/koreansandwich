@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://your-banner-image-url" alt="Hello" width="80%" />
+  <img src="./assets/greeting.jpg" alt="banner" width="80%" />
 </p>
+
 
 ---
 
