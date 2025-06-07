@@ -1,22 +1,32 @@
 ## Profile
 
 🧑‍💻 **Who Am I**
-- I'm currently interested in applying machine learning to cybersecurity and social media analysis.
-- Background in Defense Digital Convergence (국방디지털융합학과), with interests in national security & social impact AI.
+- I'm currently exploring machine learning, computer vision, data analysis, and web development.
+- Serving in the Republic of Korea Air Force as a technical enlisted member (공군 병 복무 중).
+- Majoring in Defense Digital Convergence (국방디지털융합학과), with focus on military technology, software engineering, and security.
 
 🎓 **Education**
-- BA in Defense Digital Convergence, [Your Univ.] (20XX – 20XX)
-- Military Tech + AI minor track
+- BA in Defense Digital Convergence, Ajou University (2021 – 2026 expected)
+- Minor tracks in Military Tech, Software Engineering, and AI
 
 💼 **Experience**
-- Internship at [회사명1] (2023.07 ~ 2023.10)
-- ROK Army Signal Corps, technical operations (if applicable)
+- **Republic of Korea Air Force** (2025.02-2026.11), Signal Corps: Currently serving with focus on technical communication systems and operational support
+- **Monthly Kitchen** (먼슬리키친, 2024.07-2024.08): QA intern – participated in software/system testing, validation, and reporting of issues in internal platforms
+- **ETNUS** (이트너스, 2023.01-2023.02): Short-term intern during year-end tax processing season – supported administrative and system workflows
 
 📜 **Certificates**
-- SQLD, 정보처리기사, etc
+- 정보처리기사 (Engineer Information Processing)
+- ADsP (Advanced Data Analytics Semi-Professional)
+
+🌍 **Global Programs**
+- 🇺🇸 **Kettering University** (2022.07-2022.08): 3-week Blue Ladder program focused on applied robotics and control systems
+- 🇺🇸 **CES 2024** (2024. 01): Selected as a student delegate from Ajou University for international tech exhibition participation
 
 🏆 **Awards**
-- [경진대회 / 논문 / 우수 프로젝트 등]
+- *(No awards listed currently – can be updated later)*
+
+
+
 
 
 ## Tech Stack
