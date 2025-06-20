@@ -17,6 +17,7 @@
 📜 **Certificates**
 - 정보처리기사 (Engineer Information Processing)
 - ADsP (Advanced Data Analytics Semi-Professional)
+- SQLD (SQL Developer)
 
 📘 **Language Proficiency**
 
