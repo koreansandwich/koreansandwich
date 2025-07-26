@@ -29,7 +29,7 @@
 - 🇺🇸 **Kettering University** (2022.07-2022.08): 3-week Blue Ladder program focused on applied robotics and control systems
 
 🏆 **Awards**
-- *(No awards listed currently – can be updated later)*
+- 최우수상, 제7회 공군 AI 해커톤 본선 (2025.07) (Excellence Award (2nd Place), 7th Republic of Korea Air Force AI Hackathon (Finals, Jul 2025))
 
 
 
