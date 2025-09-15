@@ -8,6 +8,7 @@
 🎓 **Education**
 - BA in Defense Digital Convergence, Ajou University (2021 – 2026 expected)
 - Minor tracks in Military Tech, Software Engineering, and AI
+- LG Aimers 3rd Program (2025.07 – 2025.09): Completed AI/ML training curriculum (Phase 1–2) and participated in Final Round (Phase 3 Offline Hackathon) on resort F&B demand forecasting
 
 💼 **Experience**
 - **Republic of Korea Air Force** (2025.02-2026.11), Signal Corps: Currently serving with focus on technical communication systems and operational support
