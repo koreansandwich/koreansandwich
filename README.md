@@ -1,4 +1,3 @@
-
 ## Profile
 🧑‍💻 **Who Am I**
 - I'm currently exploring machine learning, computer vision, data analysis, and web development.
@@ -8,7 +7,6 @@
 🎓 **Education**
 - BA in Defense Digital Convergence, Ajou University (2021 – 2027 expected)
 - Minor tracks in Military Tech, Software Engineering, and AI
-- LG Aimers 7th Program (2025.07 – 2025.09): Completed AI/ML training curriculum (Phase 1–2) and participated in Final Round (Phase 3 Offline Hackathon) on resort F&B demand forecasting
 
 💼 **Experience**
 
@@ -27,7 +25,7 @@
 
 📜 **Certificates**
 - 정보처리기사 (Engineer Information Processing)
-- ADP 실기 (Advanced Data Analytics Professional)
+- ADP (Advanced Data Analytics Professional)
 - ADsP (Advanced Data Analytics Semi-Professional)
 - SQLD (SQL Developer)
 
@@ -41,8 +39,9 @@
 
 🏆 **Awards**
 - 최우수상, 제7회 공군 AI 해커톤 본선 (2025.07) — Excellence Award (2nd Place), 7th ROKAF AI Hackathon Finals
-- 8위 입상, 2025 국방 AI 경진대회 (MAICON) (2025.11)
+- 후원기업상 (8위), 2025 국방 AI 경진대회 (MAICON) (2025.11) — Sponsor Company Award (8th Place)
 - 장려상, 대학연합 ASCII-THON (2026.01) — Encouragement Award, Ajou University Joint Hackathon
+- LG Aimers 7기 본선 진출 20위 (2025.09) — Top 100 of 1,500+ participants, Final Round (Phase 3) on resort F&B demand forecasting
 
 ---
 
@@ -86,11 +85,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
-
----
-
-## ✨ Competitive Programming
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jdh4673)](https://solved.ac/jdh4673)
 
 ---
 
