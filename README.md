@@ -26,6 +26,14 @@
 - **이트너스** (2023.01 – 2023.02)
    연말 세무 처리 시즌 단기 인턴 — 연말정산 관련 금액 처리 및 고객 응대
 
+🧪 **프로젝트**
+
+- **Ecommerce AI Recommendation Platform** (2023.08 – 2023.12, 3인 팀 캡스톤)
+  화장품 개인 맞춤 추천 이커머스 플랫폼. React + JWT 기반 프론트엔드, Spring Boot 백엔드를 풀스택으로 개발하고, 키워드 기반(KMeans 클러스터링) · 유사 상품 · 인구통계 기반 추천까지 Flask 추천 API 3종을 직접 설계·구현.
+
+- **비상(飛上)** (2학년, 아주대학교 파란학기제)
+  HTP(집·나무·사람) 심리검사 그림을 Object Detection으로 분석하는 앱 프로젝트. 데이터 크롤링·라벨링부터 앱 프론트엔드·백엔드 개발까지 담당.
+
 📜 **자격증**
 - ADP (데이터분석 전문가)
 - 빅데이터분석기사
@@ -55,14 +63,18 @@
 ### 💻 언어 & 프레임워크
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 📊 ML / 데이터
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics%20YOLO-00ADEF?style=flat&logoColor=white)
 ![AutoGluon](https://img.shields.io/badge/AutoGluon-0099CC?style=flat&logoColor=white)
