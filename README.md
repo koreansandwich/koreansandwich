@@ -28,7 +28,7 @@
 
 🧪 **프로젝트**
 
-- **Ecommerce AI Recommendation Platform** (2023.08 – 2023.12, 3인 팀 캡스톤)
+- **Ecommerce AI Recommendation Platform** (2024.08 – 2024.12, 3인 팀 캡스톤)
   화장품 개인 맞춤 추천 이커머스 플랫폼. React + JWT 기반 프론트엔드, Spring Boot 백엔드를 풀스택으로 개발하고, 키워드 기반(KMeans 클러스터링) · 유사 상품 · 인구통계 기반 추천까지 Flask 추천 API 3종을 직접 설계·구현.
 
 - **비상(飛上)** (2학년, 아주대학교 파란학기제)
